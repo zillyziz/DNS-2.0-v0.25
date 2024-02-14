@@ -1,0 +1,33 @@
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\DumbNS 2.0.exe
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\DumbNS 2.0.deps.json
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\DumbNS 2.0.runtimeconfig.json
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\DumbNS 2.0.pdb
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\System.CodeDom.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\System.Management.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.csproj.AssemblyReference.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\MainWindow.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\App.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0_MarkupCompile.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0_MarkupCompile.lref
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\MainWindow.baml
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.g.resources
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.AssemblyInfoInputs.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.AssemblyInfo.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.csproj.CoreCompileInputs.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.csproj.CopyComplete
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\refint\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.pdb
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\DumbNS 2.0.genruntimeconfig.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\ref\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\EntityFramework.SqlServer.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\EntityFramework.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\System.Data.SQLite.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\System.Data.SqlClient.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\System.Data.SQLite.EF6.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\sni.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\win-x86\SQLite.Interop.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\AddingDns.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\win-x86\AddingDns.baml

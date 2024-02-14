@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>DumbNS_2._0</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+	  <ApplicationIcon>./icon.ico</ApplicationIcon>
+	  <ApplicationManifest>app.manifest</ApplicationManifest>
+	  <Title>DumbNS 2.0</Title>
+	  <Version>0.25</Version>
+	  <Authors>Dumb Group</Authors>
+	  <Description>DNS Changer</Description>
+	  <Copyright>Copyright© 2023 Dumb Group</Copyright>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <None Remove="847.jpg" />
+    <None Remove="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+    <PackageReference Include="System.Management" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="847.jpg" />
+    <Resource Include="icon.ico" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbNS 2.0", "DumbNS 2.0\DumbNS 2.0.csproj", "{EE2B7F3C-7581-40BA-B5C6-CB3D02A2D5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2B7F3C-7581-40BA-B5C6-CB3D02A2D5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2B7F3C-7581-40BA-B5C6-CB3D02A2D5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2B7F3C-7581-40BA-B5C6-CB3D02A2D5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2B7F3C-7581-40BA-B5C6-CB3D02A2D5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319ACFD4-1D49-48FB-8AF5-F9696082EDC8}
+	EndGlobalSection
+EndGlobal

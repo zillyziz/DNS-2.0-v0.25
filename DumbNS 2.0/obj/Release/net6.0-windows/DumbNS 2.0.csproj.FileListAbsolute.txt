@@ -1,0 +1,158 @@
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.exe
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.deps.json
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.runtimeconfig.json
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.pdb
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\System.CodeDom.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\System.Management.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.AssemblyReference.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\App.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.lref
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.baml
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.g.resources
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfoInputs.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfo.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CoreCompileInputs.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CopyComplete
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\refint\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.pdb
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.genruntimeconfig.cache
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\ref\DumbNS 2.0.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.g.cs
+D:\Pro\CSharp\DumbNS 2.0\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.baml
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.AssemblyReference.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\App.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.lref
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\refint\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.pdb
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.exe
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.deps.json
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.runtimeconfig.json
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.pdb
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.baml
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.g.resources
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfoInputs.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfo.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CoreCompileInputs.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CopyComplete
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.genruntimeconfig.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\ref\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.exe
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.AssemblyReference.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\App.g.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.lref
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.baml
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.g.resources
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfoInputs.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfo.cs
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CoreCompileInputs.cache
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CopyComplete
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\refint\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\DumbNS 2.0 v0.25\D-NS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.pdb
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.exe
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.deps.json
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.runtimeconfig.json
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\DumbNS 2.0.pdb
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\EntityFramework.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.AssemblyReference.cache
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.g.cs
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\App.g.cs
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.cache
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0_MarkupCompile.lref
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\AddingDns.baml
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.g.resources
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfoInputs.cache
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.AssemblyInfo.cs
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CoreCompileInputs.cache
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.csproj.CopyComplete
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\refint\DumbNS 2.0.dll
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.pdb
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\DumbNS 2.0.genruntimeconfig.cache
+C:\Users\zilly\Desktop\D-NS 2.0 v0.25\DumbNS 2.0 v0.25\DumbNS 2.0\obj\Release\net6.0-windows\ref\DumbNS 2.0.dll
